@@ -1,0 +1,12 @@
+{
+    "backpack": {
+        "name": "Sauce Labs Backpack",
+        "price": 29.99
+    },
+    "BikeLight": {
+        "name": "Sauce Labs Bike Light",
+        "price": 9.99
+    },
+    "cart": "ADD TO CART",
+    "added": "REMOVE"
+}

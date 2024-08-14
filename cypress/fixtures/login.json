@@ -1,0 +1,8 @@
+{
+  "password": "secret_sauce",
+  "error":{
+      "locked": "Epic sadface: Sorry, this user has been locked out.",
+      "do_not_match": "Epic sadface: Username and password do not match any user in this service"
+    }
+  
+}
